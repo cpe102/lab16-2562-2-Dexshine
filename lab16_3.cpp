@@ -34,7 +34,7 @@ void showVector(vector<int> x){
 	for(int i=0;i<x.size();i++){
 		cout << x[i] << " ";
 	}
-	cout << " ]";
+	cout << "]";
 
 }
 int dotProduct(vector<int> x,vector<int> y){
